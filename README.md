@@ -1,4 +1,4 @@
-ysapp
+Angry Bird with Google Closure
 =====
 
-Game App based Google Closure for YS
+Game App based Google Closure
